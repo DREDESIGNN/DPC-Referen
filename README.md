@@ -35,3 +35,41 @@ App Android para exibir valores de referência laboratoriais, procedimentos e av
 ## 📸 Capturas de Tela (adicionarei depois)
 
 
+🔧 Como rodar o projeto
+
+git clone https://github.com/DREDESIGNN/DPC-Referen.git
+
+Abra o projeto no Android Studio
+
+Aguarde o Gradle sincronizar os arquivos
+
+Rode o projeto no emulador ou dispositivo físico
+
+🧪 Em andamento...
+
+Esse projeto está em desenvolvimento e ainda irá conter:
+
+Sistema de notificações
+
+Integração com banco de dados remoto (MySQL)
+
+Tela de avaliação entre médico e paciente
+
+## 👨‍💻 Desenvolvedor
+
+- **André Luiz Costa de Souza**  
+  Desenvolvedor autodidata apaixonado por tecnologia, inteligência artificial e computação quântica.  
+  📍 RJ - Brasil  
+  [LinkedIn](https://www.linkedin.com/in/dredesignn) | [GitHub](https://github.com/DREDESIGNN)
+
+---
+
+## 🔒 Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
+
+
+
+
+
